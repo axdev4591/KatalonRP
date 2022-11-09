@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Enable Payment contract_lever srai-lever</name>
+   <tag></tag>
+   <elementGuidId>b66320c2-fffb-4ca4-8eed-899beb3a3224</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.js-form-item.form-item.js-form-type-portal-switch.form-type-portal-switch.js-form-item-enable-payment-contract.form-item-enable-payment-contract > div.switch > label > span.lever.srai-lever</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-payment-contract-container']/div/div/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>222d428d-eb04-423d-869f-326c8145886f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lever srai-lever</value>
+      <webElementGuid>65bf5bcb-42a4-48fb-b8b4-e78f9ab181d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-payment-contract-container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s8&quot;]/div[@class=&quot;js-form-item form-item js-form-type-portal-switch form-type-portal-switch js-form-item-enable-payment-contract form-item-enable-payment-contract&quot;]/div[@class=&quot;switch&quot;]/label[1]/span[@class=&quot;lever srai-lever&quot;]</value>
+      <webElementGuid>17d833ba-b94d-46d3-99a5-759062d5fa3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-payment-contract-container']/div/div/div/div/label/span</value>
+      <webElementGuid>237037e9-f606-4e80-af55-30a79a20cfc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[3]/div/div[2]/div/div/div/div/label/span</value>
+      <webElementGuid>c2f6ad62-006f-4265-bc3f-15db8f563587</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

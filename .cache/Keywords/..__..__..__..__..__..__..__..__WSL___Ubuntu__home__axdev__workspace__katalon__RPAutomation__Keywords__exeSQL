@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "4FDF76E7C135DC98D003A0C0DA8B067E",
+  "keywordClasses": [
+    {
+      "name": "executeSQL",
+      "keywordMethods": [
+        {
+          "name": "executeQuery",
+          "parameters": [
+            {
+              "name": "query",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "selectQuery",
+          "parameters": [
+            {
+              "name": "query",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

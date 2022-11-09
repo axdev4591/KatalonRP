@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Création automatique d'un appel d'offre</description>
+   <name>CreateInvitationToTender</name>
+   <tag>AO</tag>
+   <comment></comment>
+   <testCaseGuid>3e2a31f6-3001-4ac9-a875-df2848a1b13a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd5987ce-3fd0-48b9-aa28-afd639f31435</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8906fa25-8a88-4e55-b422-f3e204e0c777</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3957502f-1423-406b-be1e-fa8af8e7d143</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd5987ce-3fd0-48b9-aa28-afd639f31435</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8906fa25-8a88-4e55-b422-f3e204e0c777</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3957502f-1423-406b-be1e-fa8af8e7d143</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AGGRID_WeightSite_input</name>
+   <tag></tag>
+   <elementGuidId>d0a108c9-557f-4318-a1cc-35bd2fb9883f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;aggrid-site-weight&quot;]/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div[2]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-cell.ag-cell-auto-height.ag-cell-value.ag-cell-focus.ag-cell-range-selected.ag-cell-range-selected-1.ag-cell-range-single-cell.ag-cell-inline-editing.ag-column-hover > input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aggrid-quantity-threshold&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr ag-keyboard-focus&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-focus ag-row-hover ag-row-inline-editing&quot;]/div[@class=&quot;ag-cell ag-cell-auto-height ag-cell-value ag-cell-focus ag-cell-range-selected ag-cell-range-selected-1 ag-cell-range-single-cell ag-cell-inline-editing ag-column-hover&quot;]/input[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aggrid-quantity-threshold']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div[4]/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+   </webElementXpaths>
+</WebElementEntity>

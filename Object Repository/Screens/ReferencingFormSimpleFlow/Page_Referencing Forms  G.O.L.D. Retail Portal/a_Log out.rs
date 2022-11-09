@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log out</name>
+   <tag></tag>
+   <elementGuidId>31532975-adb5-4718-b3fa-3eac4a61f89a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='account-menu-content']/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>456c78a2-b943-4844-afc1-526fc7145233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/rportal/user/logout</value>
+      <webElementGuid>54015239-0f5c-4f46-886e-8028e2c4b466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>center-align</value>
+      <webElementGuid>94a1cc7c-6513-4559-8d74-a173936e3c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-system-path</name>
+      <type>Main</type>
+      <value>user/logout</value>
+      <webElementGuid>dd4a9192-6e9c-4a30-b7a2-b5da2d62eb7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log out</value>
+      <webElementGuid>c75ca856-40aa-4dd3-aec4-dca2640cf43d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-menu-content&quot;)/li[@class=&quot;menu-item&quot;]/a[@class=&quot;center-align&quot;]</value>
+      <webElementGuid>71e8cba2-6343-46c5-a001-0bc43bddde09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='account-menu-content']/li[2]/a</value>
+      <webElementGuid>522643b9-4bda-4a72-b3e8-841128fd1f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log out')]</value>
+      <webElementGuid>0dc5785f-7eaf-45c9-8f0b-a6e6e7733920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My account'])[1]/following::a[1]</value>
+      <webElementGuid>b75189cf-c4cc-49bf-abfe-30988fc00291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='portal_manager1 portal_manager1'])[1]/following::a[2]</value>
+      <webElementGuid>efa92f50-5574-4356-aaf0-fe98a1ea3246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User account menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>bfd59f4f-b14a-40d4-80ec-26149e69a359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>1a03c198-1947-40d5-965d-9c857939ceaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log out']/parent::*</value>
+      <webElementGuid>f16d9727-d2fd-4d5f-8d69-c1ebdebd5a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/rportal/user/logout')]</value>
+      <webElementGuid>0d31d9fc-78e7-4a12-95a8-c409d7315716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>8234283c-4609-4a09-8b00-469ce94cd78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/rportal/user/logout' and (text() = 'Log out' or . = 'Log out')]</value>
+      <webElementGuid>18b46a13-8108-496c-8240-084aeefe75c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

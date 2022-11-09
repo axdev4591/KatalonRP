@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ServiceComDisbale</name>
+   <tag></tag>
+   <elementGuidId>390c591d-8286-458d-bcd9-e1210b6ebbe1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-service-contract-container']/div/div/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.js-form-item.form-item.js-form-type-portal-switch.form-type-portal-switch.js-form-item-enable-service-contract.form-item-enable-service-contract > div.switch > label > span.lever.srai-lever</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab5b89ab-078f-4a1d-bc89-931125690207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lever srai-lever</value>
+      <webElementGuid>2f3a278a-1748-42f1-bc2d-7fcffbf9b73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-service-contract-container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s8&quot;]/div[@class=&quot;js-form-item form-item js-form-type-portal-switch form-type-portal-switch js-form-item-enable-service-contract form-item-enable-service-contract&quot;]/div[@class=&quot;switch&quot;]/label[1]/span[@class=&quot;lever srai-lever&quot;]</value>
+      <webElementGuid>cfa229bb-8106-49a7-9dcb-983528fafd64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-service-contract-container']/div/div/div/div/label/span</value>
+      <webElementGuid>2c5d0df4-3033-43e8-8650-f7eaaeac1056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/label/span</value>
+      <webElementGuid>f850b61d-ad9f-4409-a161-92dd24de90de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

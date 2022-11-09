@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AttributDisable</name>
+   <tag></tag>
+   <elementGuidId>ffe6982b-3229-4857-87c8-99d68d7e7011</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-attributes-container']/div/div/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.lever.srai-lever</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d7b5085-afc2-4558-8aac-3a6b8dc755b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lever srai-lever</value>
+      <webElementGuid>6bc9df93-44bb-40e7-ba53-66d69abe3c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-attributes-container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s8&quot;]/div[@class=&quot;js-form-item form-item js-form-type-portal-switch form-type-portal-switch js-form-item-enable-attributes form-item-enable-attributes&quot;]/div[@class=&quot;switch&quot;]/label[1]/span[@class=&quot;lever srai-lever&quot;]</value>
+      <webElementGuid>2c4f33a9-6314-4b36-9029-860e2d2e4e4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-attributes-container']/div/div/div/div/label/span</value>
+      <webElementGuid>a3d1a681-9c11-411c-b5a1-fd98ea10c41d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/label/span</value>
+      <webElementGuid>fcaaff5a-88d6-4242-a2a9-297d1bb95b97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

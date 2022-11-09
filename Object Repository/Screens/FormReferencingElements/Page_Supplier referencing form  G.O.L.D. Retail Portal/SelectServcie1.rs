@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SelectServcie1</name>
+   <tag></tag>
+   <elementGuidId>ba0e1cd1-a845-4384-bbe3-f7885ab4e818</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='fields0'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-body-viewport.ag-layout-auto-height.ag-row-animation.ag-has-focus > div.ag-center-cols-clipper > div.ag-center-cols-viewport > div.ag-center-cols-container > div.ag-row.ag-row-even.ag-row-level-0.ag-row-position-absolute.ag-row-first.ag-row-last.ag-row-focus > div.ag-cell.ag-cell-not-inline-editing.ag-cell-auto-height.ag-cell-value.ag-cell-focus > #fields0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf0a12f0-9460-4450-944b-22ec51e1160c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fields0</value>
+      <webElementGuid>209c92ce-4980-47c9-869a-8588d72ce40c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-component valign-wrapper</value>
+      <webElementGuid>ac70f32e-9a48-4ce8-ac8f-93f558341f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>arrow_drop_down</value>
+      <webElementGuid>d83c22f5-9192-4385-b82d-842fe4d32006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aggrid-service-contract&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-focus&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-auto-height ag-cell-value ag-cell-focus&quot;]/div[@id=&quot;fields0&quot;]</value>
+      <webElementGuid>4b9107a3-ef02-4b9d-82ce-8b1e4151aaa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='fields0'])[5]</value>
+      <webElementGuid>51f22225-54ec-4389-a710-12a4aa5dd9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aggrid-service-contract']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>1822ec6f-d294-4965-8ccb-e49617681899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fiber_new'])[2]/following::div[12]</value>
+      <webElementGuid>19b1d995-1176-4080-b8aa-ec1f3a357aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[8]/following::div[25]</value>
+      <webElementGuid>ee1f5447-454d-4a7d-8a03-660e8e21124d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[8]/preceding::div[28]</value>
+      <webElementGuid>fea71864-0b7c-4cf9-bac4-12c55cc35960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[2]/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>d5fd0bb2-eea5-4db5-a058-18b88c5f519d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'fields0' and (text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
+      <webElementGuid>15ba524e-2660-479b-ad33-7944473b0f74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Expand_menu_homepage</name>
+   <tag></tag>
+   <elementGuidId>4b0c3b77-c55f-45fc-872c-17837118548c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='slide-out']/li/a/i/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Access the homepage&quot;] > i > img.ui.medium.image</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/rportal/modules/custom/srai_materialize_css/images/icons/homepage-white-48dp.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui medium image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/rportal/modules/custom/srai_materialize_css/images/icons/homepage-white-48dp.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out&quot;)/li[@class=&quot;menu-item menu-item--active-trail&quot;]/a[1]/i[1]/img[@class=&quot;ui medium image&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='slide-out']/li/a/i/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/nav/ul/li/a/i/img</value>
+   </webElementXpaths>
+</WebElementEntity>

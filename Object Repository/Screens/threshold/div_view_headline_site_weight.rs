@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_view_headline_site_weight</name>
+   <tag></tag>
+   <elementGuidId>a03e96fd-dc54-44e2-96e2-fd10683c9da9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;aggrid-site-weight&quot;]/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.merchandise-structure-component.valign-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>merchandise-structure-component valign-wrapper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>view_headline</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aggrid-quantity-threshold&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-hover ag-row-focus&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-auto-height ag-cell-value ag-column-hover ag-cell-focus ag-cell-range-selected ag-cell-range-selected-1 ag-cell-range-single-cell&quot;]/div[@class=&quot;merchandise-structure-component valign-wrapper&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aggrid-quantity-threshold']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fiber_new'])[1]/following::div[12]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[1]/following::div[25]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='event'])[1]/preceding::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/div[2]/div/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>itemDateEnd</name>
+   <tag></tag>
+   <elementGuidId>61a82d5f-1fe7-4bd8-a04d-f30730e0c472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='ui-datepicker-div']/table/tbody/tr[${Eweek}]/td[${Eday}]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='ui-datepicker-div']/table/tbody/tr[${Eweek}]/td[${Eday}]/a</value>
+      <webElementGuid>3723947a-0841-4112-9c57-7276d981984a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

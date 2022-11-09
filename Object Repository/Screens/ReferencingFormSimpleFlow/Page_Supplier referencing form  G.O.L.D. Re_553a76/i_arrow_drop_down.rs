@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_arrow_drop_down</name>
+   <tag></tag>
+   <elementGuidId>2e8964fd-d8a8-4b07-8bf8-1bbe52a5fcbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='users0']/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7d3d7d12-d62f-46e8-a396-4e195bc9744e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons select</value>
+      <webElementGuid>566dc668-8fc5-4dfc-a72e-5a463640b2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>arrow_drop_down</value>
+      <webElementGuid>2b8947f4-f6db-45cf-adf0-68106bc2b3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;users0&quot;)/span[@class=&quot;right-side&quot;]/i[@class=&quot;material-icons select&quot;]</value>
+      <webElementGuid>6c6788c3-f0fd-4a93-adda-5436ea5ab42b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='users0']/span[2]/i</value>
+      <webElementGuid>38fcb803-8b69-47df-8da0-7e1e3004b230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='permiere étape du WF'])[1]/following::i[1]</value>
+      <webElementGuid>1a177e73-356c-49d9-a56a-a5f859db3824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fiber_new'])[1]/following::i[1]</value>
+      <webElementGuid>63f12969-17f5-42b2-87de-05c623735909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_drop_down'])[2]/preceding::i[1]</value>
+      <webElementGuid>3aae5425-ba4c-48dc-94ad-18e418b1f76d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[8]/preceding::i[2]</value>
+      <webElementGuid>58325ab6-f5f5-4006-b3be-7727a52a8f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='arrow_drop_down']/parent::*</value>
+      <webElementGuid>f07ea7f2-583b-4d50-8367-1b5b460abb7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/i</value>
+      <webElementGuid>21403c4a-4308-43a4-9b5d-f96b5b0e5118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
+      <webElementGuid>8b3927d2-19b7-4d6f-ae56-5fbf29d99303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

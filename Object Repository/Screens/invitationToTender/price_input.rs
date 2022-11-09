@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>price_input</name>
+   <tag></tag>
+   <elementGuidId>fc7a0745-8649-4262-84f3-b62bc4abbc1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='aggrid-articles']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div[10]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;aggrid-articles&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr ag-keyboard-focus&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-focus ag-row-selected ag-row-hover ag-row-inline-editing&quot;]/div[@class=&quot;ag-cell ag-cell-auto-height ag-cell-value ag-cell-focus ag-cell-inline-editing ag-column-hover&quot;]/input[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-cell.ag-cell-auto-height.ag-cell-value.ag-cell-focus.ag-cell-inline-editing.ag-column-hover > input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>468488dc-7754-4216-9218-7909b60a3f5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aggrid-articles&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr ag-keyboard-focus&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-focus ag-row-selected ag-row-hover ag-row-inline-editing&quot;]/div[@class=&quot;ag-cell ag-cell-auto-height ag-cell-value ag-cell-focus ag-cell-inline-editing ag-column-hover&quot;]/input[1]</value>
+      <webElementGuid>20e8e06d-67cb-4f30-b0b4-efeee20244ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aggrid-articles']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div[7]/input</value>
+      <webElementGuid>c1d7017c-5ec7-4f30-afbc-26dd44c02760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/input</value>
+      <webElementGuid>5644e77c-aa35-4964-8c76-8d6b72ec6569</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

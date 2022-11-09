@@ -1,0 +1,25 @@
+# Katalon
+Reports
+Libs
+
+# Eclipse (used for Katalon)
+.classpath
+.metadata
+.project
+bin/
+tmp/
+*.tmp
+*.bak
+*.class
+*.swp
+*~.nib
+local.properties
+#.settings/
+settings/internal/com.kms.katalon.composer.testcase.properties
+.loadpath
+.recommenders
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/

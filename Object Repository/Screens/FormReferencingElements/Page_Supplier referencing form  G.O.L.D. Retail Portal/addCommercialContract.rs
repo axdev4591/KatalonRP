@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addCommercialContract</name>
+   <tag></tag>
+   <elementGuidId>7b551bb9-9e75-4e97-a939-4c10c967d393</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-commercial-contract-container']/div/div/div[2]/div/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>38614f40-63e8-461b-b969-2d008141b4a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>srai span-icon material-icons </value>
+      <webElementGuid>aeae9bcf-d89f-4a92-a419-1b808dcb5320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-selector</name>
+      <type>Main</type>
+      <value>edit-commercial-contract-toolbar-row-operation-group-add-row-button-icon</value>
+      <webElementGuid>eb6c692d-10fe-4a7e-9419-0d4783aa61c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>2c62fb91-418b-4c9d-920b-60af903cc2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-commercial-contract-container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s8&quot;]/div[@class=&quot;srai-aggrid-margin-bottom js-form-item&quot;]/div[@class=&quot;srai grid toolbar&quot;]/button[@class=&quot;srai circular ui button btn-add-button-aggrid-commercial-contract modal-trigger&quot;]/i[@class=&quot;srai span-icon material-icons&quot;]</value>
+      <webElementGuid>15c74d9f-ef66-4508-a743-8f8fb67fcd37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-commercial-contract-container']/div/div/div[2]/div/button[2]/i</value>
+      <webElementGuid>128189f3-95e8-45c9-b6e3-2cdff4837baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fullscreen'])[6]/following::i[1]</value>
+      <webElementGuid>8cb74329-7b07-4b1c-a56a-57722c65a229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='remove'])[5]/preceding::i[1]</value>
+      <webElementGuid>1a0112b6-6703-4c4f-9cf4-24f431bbb4ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick add'])[4]/preceding::i[2]</value>
+      <webElementGuid>64887da4-2691-4ee7-88aa-d6c8c5bea50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[4]/div/div/div/div/div[2]/div/button[2]/i</value>
+      <webElementGuid>01bd3966-452a-4905-b0a8-e7297afeea8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>772973a0-7db8-4d5d-bc93-3da1693623a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

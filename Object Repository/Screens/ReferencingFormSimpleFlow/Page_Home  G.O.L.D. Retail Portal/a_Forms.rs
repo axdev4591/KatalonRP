@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forms</name>
+   <tag></tag>
+   <elementGuidId>52959953-6d27-4158-936a-881743594736</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Supplier referencing form type&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='slide-out']/li[6]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29af0f65-24dd-493b-91cc-5db3ea30631b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/rportal/supplier-referencing/form-type/list</value>
+      <webElementGuid>32966096-c38d-46e7-98c2-cc55c0915a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Supplier referencing form type</value>
+      <webElementGuid>bb545aff-778a-46ba-809a-520a5c6d2d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-system-path</name>
+      <type>Main</type>
+      <value>supplier-referencing/form-type/list</value>
+      <webElementGuid>3ea941f0-6848-4e41-adc3-154236f7fa7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                      Forms
+                  </value>
+      <webElementGuid>d19052cd-1897-48a7-a49e-6cb26ca57122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out&quot;)/li[@class=&quot;menu-item menu-item--expanded active&quot;]/ul[@class=&quot;menu child collapsible-body&quot;]/li[@class=&quot;menu-item&quot;]/a[1]</value>
+      <webElementGuid>4cf733b6-bbcf-4177-a185-17bf9224e2bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='slide-out']/li[6]/ul/li/a</value>
+      <webElementGuid>967af076-601c-48dd-8094-592ac8f9b63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[5]/following::a[1]</value>
+      <webElementGuid>3940ad8a-3d98-496a-a830-b2bb3d5dca5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referencing'])[1]/following::a[1]</value>
+      <webElementGuid>457f3076-b4f3-43d0-9f2f-930dc44b6c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referencings follow up'])[1]/preceding::a[1]</value>
+      <webElementGuid>e8b16449-d3fd-43a4-bf03-eb53833d2e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/rportal/supplier-referencing/form-type/list')]</value>
+      <webElementGuid>c0c0db13-ac3f-4ec2-b985-0efe4fbcb7f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li/a</value>
+      <webElementGuid>c862a2b3-3f52-4e83-8571-0a6c37a28595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/rportal/supplier-referencing/form-type/list' and @title = 'Supplier referencing form type' and (text() = '                      Forms
+                  ' or . = '                      Forms
+                  ')]</value>
+      <webElementGuid>de35645e-bf92-4a5d-ae08-66cc14f886d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

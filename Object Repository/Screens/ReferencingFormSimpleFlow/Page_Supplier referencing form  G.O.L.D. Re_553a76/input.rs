@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input</name>
+   <tag></tag>
+   <elementGuidId>236a3c37-d19e-4453-b44e-3f4bb7dcd07b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-cell.ag-cell-auto-height.ag-cell-value.ag-cell-focus.ag-cell-inline-editing.ag-column-hover > input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='aggrid-validation-workflow-grid']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7f686e5c-48a5-494e-b69c-737e187f8f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aggrid-validation-workflow-grid&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr ag-keyboard-focus&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-hover ag-row-focus ag-row-selected ag-row-inline-editing&quot;]/div[@class=&quot;ag-cell ag-cell-auto-height ag-cell-value ag-cell-focus ag-cell-inline-editing ag-column-hover&quot;]/input[1]</value>
+      <webElementGuid>318bf951-881e-46ec-8811-b3199f9b1f89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aggrid-validation-workflow-grid']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/input</value>
+      <webElementGuid>9cfc8459-0e6f-492d-9819-60757a134cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/input</value>
+      <webElementGuid>bcc87e34-ed30-453f-b207-0d8e5a0fbca7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

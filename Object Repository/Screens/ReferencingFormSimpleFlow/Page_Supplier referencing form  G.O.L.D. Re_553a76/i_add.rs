@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_add</name>
+   <tag></tag>
+   <elementGuidId>86fa1ee6-2b7a-48f7-8a4d-4cfa0c191ef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//details[@id='edit-validation-workflow-container']/div/div/div/button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b9f64c93-31c0-48c6-8a79-3e865fdb0253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>srai span-icon material-icons </value>
+      <webElementGuid>92fe1646-7b39-44e6-9fc4-a51e8cd226c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-selector</name>
+      <type>Main</type>
+      <value>edit-validation-workflow-grid-toolbar-row-operation-group-add-row-button-icon</value>
+      <webElementGuid>6b55e32e-661f-48be-a8c9-9f3e052b98e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>3dfa54f9-01bb-4d1c-a0d6-a4125e471bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-validation-workflow-container&quot;)/div[@class=&quot;details-wrapper&quot;]/div[@class=&quot;srai-aggrid-margin-bottom js-form-item&quot;]/div[@class=&quot;srai grid toolbar&quot;]/button[@class=&quot;srai circular ui button btn-add-button-aggrid-validation-workflow-grid modal-trigger&quot;]/i[@class=&quot;srai span-icon material-icons&quot;]</value>
+      <webElementGuid>6e24d252-e9e8-4a6b-a350-ab8c00638dcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//details[@id='edit-validation-workflow-container']/div/div/div/button[2]/i</value>
+      <webElementGuid>7caedcd1-61cd-4c3d-97a8-a7a7d1b28821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fullscreen'])[8]/following::i[1]</value>
+      <webElementGuid>802b5dd9-f013-4661-af18-1a6f57437a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validation workflow'])[1]/following::i[2]</value>
+      <webElementGuid>87eed6e1-519f-4447-ac6a-84679ec98724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='remove'])[8]/preceding::i[1]</value>
+      <webElementGuid>eef6cd71-6f07-4644-a263-5d68f4218453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[8]/preceding::i[2]</value>
+      <webElementGuid>1db87b4c-61c3-4423-a8e6-50499a013f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[5]/div/div/div/button[2]/i</value>
+      <webElementGuid>28713772-76c7-4151-a9bf-feb20a297dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>25a810a7-0406-4911-a159-8f2f2506289c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>rp-automation</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Retail portal url</description>
+      <initValue>'http://srai-gold-sid3:8083/rportal/user/login'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>portal user</description>
+      <initValue>'portal_manager1@retailer.local'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>technical admin</description>
+      <initValue>'technical_admin@retailer.local'</initValue>
+      <name>admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>retailer password</description>
+      <initValue>'NHBwr8Fhs1F1hhv+gptQ3A=='</initValue>
+      <name>Encryptedpwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'srai2018'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

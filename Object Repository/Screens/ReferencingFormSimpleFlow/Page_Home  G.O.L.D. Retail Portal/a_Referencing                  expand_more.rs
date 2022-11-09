@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Referencing                  expand_more</name>
+   <tag></tag>
+   <elementGuidId>8ec666b7-f3b9-4c9f-971a-e8a94c3c2c93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='slide-out']/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>777606e7-65c9-482f-af7b-9f822276eb3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>2ff7bdbc-ad8e-41d3-b796-651a5ef6e334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item menu-item--expanded collapsible-header</value>
+      <webElementGuid>a0f7692d-69d2-421a-8774-6e7d500265dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>69c38704-efc0-4747-9203-b1553113aa33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                      Referencing
+                  expand_more</value>
+      <webElementGuid>d7b751a0-cb4c-4393-9b10-7cc6a4f78493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out&quot;)/li[@class=&quot;menu-item menu-item--expanded&quot;]/a[@class=&quot;menu-item menu-item--expanded collapsible-header&quot;]</value>
+      <webElementGuid>380a9114-8bb4-4a6a-b54b-3cf7c22af0b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='slide-out']/li[6]/a</value>
+      <webElementGuid>f75aa2c4-ece8-4fa1-9940-18ff46a4a2c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight of sites for shortage thresholds'])[1]/following::a[1]</value>
+      <webElementGuid>5bf391ea-57b9-4c4b-b7ae-cf7c0c92ca2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier offers'])[1]/following::a[2]</value>
+      <webElementGuid>ebe94913-3ee8-4ffa-9c5f-b519742f3329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[7]</value>
+      <webElementGuid>28bb0cfe-6ba9-4b60-bb5d-338667ec9f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>fb1b893f-df40-45ee-b2c4-cd6a1dd35970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '                      Referencing
+                  expand_more' or . = '                      Referencing
+                  expand_more')]</value>
+      <webElementGuid>af204b09-4b6c-4c58-b04a-657d0543eaf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

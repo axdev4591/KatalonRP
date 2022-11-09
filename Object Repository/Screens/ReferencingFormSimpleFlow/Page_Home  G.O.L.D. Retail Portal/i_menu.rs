@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_menu</name>
+   <tag></tag>
+   <elementGuidId>b3419f43-ee65-4063-abc2-bc625c4f8053</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.white-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ae677bd6-c026-49a4-90a0-25d693970866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons white-text</value>
+      <webElementGuid>f8ab6cd8-eb10-4385-9750-1ce70e10434f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>c44ee98c-e396-43db-b27a-5dd2f4429052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js&quot;]/body[@class=&quot;user-logged-in path-frontpage eu-cookie-compliance-status-null&quot;]/div[@class=&quot;dialog-off-canvas-main-canvas&quot;]/div[@class=&quot;srai-header-banner&quot;]/div[@class=&quot;row srai-row-flexcontainer-no-margin srai-header-top-menu&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col s3 sub_menu_left_header&quot;]/div[@class=&quot;valign-wrapper&quot;]/a[@class=&quot;sidenav-trigger&quot;]/i[@class=&quot;material-icons white-text&quot;]</value>
+      <webElementGuid>5885c042-721e-48ad-aa4a-7f7ecd8fef8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::i[1]</value>
+      <webElementGuid>002da4be-e278-4c88-993a-b8a0db8206d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='G.O.L.D. RETAIL PORTAL'])[1]/preceding::i[1]</value>
+      <webElementGuid>b95b1589-0497-46de-be48-b4f837fa9f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top header'])[1]/preceding::i[1]</value>
+      <webElementGuid>9ffada71-3102-43b1-bba7-6267c9ee5b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='menu']/parent::*</value>
+      <webElementGuid>2fe884d5-4600-4b70-a58b-e01df91844fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>51ec51d4-3750-425d-bcb5-74ac28069076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'menu' or . = 'menu')]</value>
+      <webElementGuid>bbf42f66-c51b-4ebc-86c3-76374ecfec1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

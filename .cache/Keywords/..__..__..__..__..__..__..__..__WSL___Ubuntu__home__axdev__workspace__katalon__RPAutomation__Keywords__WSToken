@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "7DEF322773D449B17254C9399984872D",
+  "keywordClasses": [
+    {
+      "name": "WSToken",
+      "keywordMethods": [
+        {
+          "name": "generateToken",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

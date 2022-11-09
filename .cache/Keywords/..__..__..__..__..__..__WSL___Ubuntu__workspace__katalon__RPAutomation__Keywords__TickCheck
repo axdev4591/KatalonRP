@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "75B9E0DED47249E9DE197F762A6AEB93",
+  "keywordClasses": [
+    {
+      "name": "TickCheck",
+      "keywordMethods": [
+        {
+          "name": "tickCheck",
+          "parameters": [
+            {
+              "name": "Objecttt",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "bool",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Boolean",
+                "unresolvedClassName": "Boolean",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_arrow_drop_down_checkbox-custom</name>
+   <tag></tag>
+   <elementGuidId>42c08f2f-2903-44df-8eb6-87917aa9f390</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='aggrid-validation-workflow-grid']/div/div[2]/div[2]/div[3]/div[2]/div/div/div[2]/div[5]/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-cell.ag-cell-not-inline-editing.ag-cell-auto-height.ag-cell-value.ag-cell-range-right.ag-column-hover.ag-cell-focus > div > div > label.checkbox-label > span.checkbox-custom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f48313e-4a0e-48e3-b268-3500557f53b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-custom</value>
+      <webElementGuid>590a39fc-36ad-4116-8f2c-d63b5c14d9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aggrid-validation-workflow-grid&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-not-inline-editing ag-row-hover ag-row-focus&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-auto-height ag-cell-value ag-cell-range-right ag-column-hover ag-cell-focus&quot;]/div[1]/div[1]/label[@class=&quot;checkbox-label&quot;]/span[@class=&quot;checkbox-custom&quot;]</value>
+      <webElementGuid>07b900d5-7f35-4e83-878e-a33712b02822</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aggrid-validation-workflow-grid']/div/div[2]/div[2]/div[3]/div[2]/div/div/div[2]/div[5]/div/div/label/span</value>
+      <webElementGuid>9de444e9-41ee-4990-b8e7-ca962fbc339a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/div/div/label/span</value>
+      <webElementGuid>15b6c453-355c-44f1-a0ab-13088d5705f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

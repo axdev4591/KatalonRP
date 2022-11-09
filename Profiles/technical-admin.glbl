@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>technical-admin</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'RetailPortal/retailportal'</initValue>
+      <name>dataFileName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1</initValue>
+      <name>dataFileIndex</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

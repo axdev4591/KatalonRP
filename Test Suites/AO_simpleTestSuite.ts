@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>AO_simpleTestSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0b58aa04-31d1-4b3b-8f0a-5d6bed5eaaa0</testSuiteGuid>
+   <testCaseLink>
+      <guid>9541b576-4142-41bd-a283-f787df354b9f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SImpleAuth</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>70c660d6-5c60-482d-9792-cf94444695af</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>3</value>
+         </iterationEntity>
+         <testDataId>Data Files/RetailPortal/rpData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>70c660d6-5c60-482d-9792-cf94444695af</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>15e20699-26e7-467c-b81f-9bede1805be5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>70c660d6-5c60-482d-9792-cf94444695af</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USERNAME</value>
+         <variableId>30181e8c-9fad-483b-be7c-2e0ace4e7952</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>70c660d6-5c60-482d-9792-cf94444695af</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>5272e329-f381-48ad-97d1-84b254055fdf</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

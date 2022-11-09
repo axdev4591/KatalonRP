@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Warehouse_SupplierAuto</name>
+   <tag></tag>
+   <elementGuidId>65c7e323-a4c0-4e00-88b2-521ec3d6a230</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;aggrid-auto-offers&quot;]/div/div[6]/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.chosen-select.ag-select-dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-select ag-select-dropdown</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1-Piece2-SKU21-IPCK22-SPCK Complex41-PCK42-PCK Complex61-Layer81-Pallet82-Roll121-Dollars141-Order161-Points180-Grams181-Kilos183-Litre184-Linear metre185-Square metre186-Cubic metre187-centimetres188-Millimetre195-sqr mm196-sqr cm197-sqr dm201-Tonne220-Separators241-Quintal303-Purch. TO304-Sales TO310-Inch311-Foot313-400-Decibel401-Time402-Mega Octet403-Degre Celcius404-Giga Octet405-Kilowatt hour406-Kilo Joule407-Kilo Calorie408-Mega Hertz409-Pixel410-Fl oz411-Cup412-Pint413-Quart414-Gallon415-Cubic Inch416-Cubic feet417-Giga Hertz418-Iso419-Second420-Percentage501-Milligramme502-Pound503-Decagramme510-Square Inch511-Square Feet512-Hectogram600-Décilitre603-Decimetre605-Kilometre610-Ounce611-Pound612-Yard613-Mile710-Square inch711-Order712-Square yard713-801-Cubic millimetre802-Cubic centimetre803-Cubic decimetre805-Millilitre806-Centilitre809-Hectoliter810-Gallon811-Pint820-US Gallon821-US pint822-Barrel823-US cubic foot</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aggrid-quantity-threshold&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr ag-keyboard-focus&quot;]/div[@class=&quot;ag-theme-balham ag-popup&quot;]/div[@class=&quot;ag-popup-editor ag-ltr ag-popup-child aggrid-select ag-keyboard-focus&quot;]/div[@class=&quot;container-select input-field&quot;]/select[@class=&quot;chosen-select ag-select-dropdown&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aggrid-quantity-threshold']/div/div[6]/div/div/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[2]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an Option'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We use cookies on this site to enhance your user experience'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/select</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DClickPay</name>
+   <tag></tag>
+   <elementGuidId>53482526-2317-4250-808f-bb0439c38f73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='fields0'])[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'fields0' and (text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-cell.ag-cell-not-inline-editing.ag-cell-auto-height.ag-cell-value.ag-column-hover.ag-cell-focus > #fields0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>66559325-149f-4e8d-94e2-19664d2390ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fields0</value>
+      <webElementGuid>23cd7e3c-82cf-4956-b1d8-6116bdd93302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-component valign-wrapper</value>
+      <webElementGuid>4e678ef1-c160-4855-a698-07271deea526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>arrow_drop_down</value>
+      <webElementGuid>e42c97de-c9a5-4905-af88-7202de0b7459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aggrid-payment-contract&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-hover ag-row-focus ag-row-selected&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-auto-height ag-cell-value ag-column-hover ag-cell-focus&quot;]/div[@id=&quot;fields0&quot;]</value>
+      <webElementGuid>933ce7fb-f483-4a94-a17b-4d73bb3f0cd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='fields0'])[4]</value>
+      <webElementGuid>85ae9632-6908-48a3-9b01-7e9d1588b3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aggrid-payment-contract']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>3a75abe6-e9a8-4a98-b9db-e27b5d0a1cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fiber_new'])[1]/following::div[12]</value>
+      <webElementGuid>e63d0d0b-f42d-4ace-b82d-304da45733ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[7]/following::div[25]</value>
+      <webElementGuid>78446823-252e-4fdf-89b5-c207b48169c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[7]/preceding::div[28]</value>
+      <webElementGuid>2afc7b01-3166-4162-897c-a16496a7731b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[4]/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>3ad966c2-e309-4598-971f-21a0ad15349b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'fields0' and (text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
+      <webElementGuid>46fbf0e5-d39f-43f9-931d-22f1a9ede2a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>unableCommercialcontract_lever</name>
+   <tag></tag>
+   <elementGuidId>7bd9e503-4174-47f3-a9a8-1674a29951be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.js-form-item.form-item.js-form-type-portal-switch.form-type-portal-switch.js-form-item-enable-commercial-contract.form-item-enable-commercial-contract > div.switch > label > span.lever.srai-lever</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-commercial-contract-container']/div/div/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72e99427-f06f-4958-9b7b-0769dde97154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lever srai-lever</value>
+      <webElementGuid>47e03f69-4c1a-4a42-ae40-9c4841d5d989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-commercial-contract-container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s8&quot;]/div[@class=&quot;js-form-item form-item js-form-type-portal-switch form-type-portal-switch js-form-item-enable-commercial-contract form-item-enable-commercial-contract&quot;]/div[@class=&quot;switch&quot;]/label[1]/span[@class=&quot;lever srai-lever&quot;]</value>
+      <webElementGuid>fb7c428e-e3d9-4c5b-b41a-9d537d71af4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-commercial-contract-container']/div/div/div/div/label/span</value>
+      <webElementGuid>df546dbc-46bf-48dd-a500-af78f86e5432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[4]/div/div/div/div/div/div/label/span</value>
+      <webElementGuid>dd1379c2-01a0-46d7-b4a5-e97c74b1f8ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
